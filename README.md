@@ -7,4 +7,4 @@ Passionate Engineer experienced in building scalable cloud-based systems with Py
 
 
 ## 📫 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/tayliuzhi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tayliuzhi/)
